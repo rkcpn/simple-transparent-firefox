@@ -1,2 +1,7 @@
-# simple-transparent-firefox
-A simple transparent Firefox theme
+# Simple transparent Firefox theme
+## About
+
+## Install
+
+## Uninstall
+Remove 'chrome' folder
