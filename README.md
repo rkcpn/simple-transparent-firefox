@@ -4,4 +4,4 @@
 ## Install
 
 ## Uninstall
-Remove 'chrome' folder
+Remove `chrome` folder
