@@ -1,0 +1,44 @@
+:root {	
+	--bg: #00000066;
+}
+
+
+tab.tabbrowser-tab[selected="true"] stack.tab-stack vbox.tab-background {
+	background: #FFFFFF28 !important;
+}
+
+toolbar {
+	background: transparent !important;
+}
+
+/* window transparencies */
+#main-window {
+	background: var(--bg) !important;
+}
+
+/* customization page */
+/* #customization-container {
+	background: var(--bct-w-pages-bg) !important;
+} */
+/* blank page */
+/* #tabbrowser-tabpanels{
+	background: var(--bct-w-pages-bg) !important;
+} */
+
+/* navbar / tabbar / titlebar */
+#nav-bar {
+	background: transparent  !important;
+	/* border-color: transparent !important; */
+}
+#navigator-toolbox {
+	background: transparent !important;
+	/* border: none !important; */
+}
+
+hbox#urlbar[open="true"] hbox#urlbar-background {
+	background: #000000E0 !important;
+}
+
+#urlbar-background {
+	background: transparent !important;
+}
