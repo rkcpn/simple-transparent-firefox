@@ -1,6 +1,7 @@
 # Simple transparent Firefox theme
 ## About
-A simple css theme that adds transparency to Firefox
+A simple css theme that adds transparency to Firefox.
+Works with Hyprland when running Firefox on Wayland with Firefox' default dark theme. Other platforms / window managers / themes might need additional settings.
 
 ## Install
 1. go to `about:support` and find your `Profile Directory`
