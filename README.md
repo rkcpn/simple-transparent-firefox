@@ -13,3 +13,6 @@ Works with Hyprland when running Firefox on Wayland with Firefox' default dark t
 
 ## Uninstall
 Remove `chrome` folder
+
+## Acknowledgements
+Heavily inspired by https://github.com/Filip-Sutkowy/blurclean-firefox-theme.
